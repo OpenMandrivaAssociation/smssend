@@ -10,7 +10,6 @@ Source0: 	%{name}-%{version}.tar.bz2
 URL: 		http://zekiller.skytech.org/smssend_menu_en.html 
 License: 	GPL 
 Group: 		Networking/Other
-BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildrequires:  skyutils-devel openssl-devel zlib-devel 
 BuildRequires:  bzip2-devel pcre-devel
 
