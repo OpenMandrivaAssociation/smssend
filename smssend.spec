@@ -1,6 +1,6 @@
 %define name    smssend
 %define version 3.4
-%define release %mkrel 10
+%define release 11
 
 Summary: 	Send free SMS to any GSM
 Name: 		%{name}
